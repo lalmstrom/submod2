@@ -1,2 +1,2 @@
 # submod2
-README updatee
+README updated
