@@ -1,4 +1,4 @@
 # submod2
 README updated
 
-Testing subtree
+submodule test with smartgit
